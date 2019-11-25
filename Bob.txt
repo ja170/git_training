@@ -1,2 +1,2 @@
-HI! I'm Bob. I've been here for a while now.
+HI! I'm Bob. Merged. I've been here for a while now.
 second line
